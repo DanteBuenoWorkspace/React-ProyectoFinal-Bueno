@@ -45,13 +45,14 @@ npm run dev
 ## 📸 Capturas
 
 ### 🏠 Home
-![Home](./public/screenshots/home.png)
+![Home](https://github.com/DanteBuenoWorkspace/React-ProyectoFinal-Bueno/blob/main/public/screenshots/home.png?raw=true)
 
 ### 🛍️ Productos
-![Productos](./public/screenshots/productos.png)
+![Productos](https://github.com/DanteBuenoWorkspace/React-ProyectoFinal-Bueno/blob/main/public/screenshots/productos.png?raw=true)
 
 ### 🛒 Carrito
-![Carrito](./public/screenshots/carrito.png)
+![Carrito](https://github.com/DanteBuenoWorkspace/React-ProyectoFinal-Bueno/blob/main/public/screenshots/carrito.png?raw=true)
 
 ### ✅ Checkout
-![Checkout](./public/screenshots/checkout.png)
+![Checkout](https://github.com/DanteBuenoWorkspace/React-ProyectoFinal-Bueno/blob/main/public/screenshots/checkout.png?raw=true)
+
