@@ -1,0 +1,61 @@
+.itemcount-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1.5rem 0;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #f39c12;
+}
+
+.itemcount-button {
+  background-color: #1e1e2f;
+  color: #f39c12;
+  border: 2px solid #f39c12;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.itemcount-button:hover {
+  background-color: #f39c12;
+  color: #1e1e2f;
+  transform: scale(1.05);
+}
+
+.itemcount-button:disabled {
+  background-color: #444;
+  color: #aaa;
+  border-color: #666;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.itemcount-add {
+  background-color: #f39c12;
+  color: #1e1e2f;
+  border: none;
+  border-radius: 8px;
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.itemcount-add:hover {
+  background-color: #ffa502;
+  transform: scale(1.05);
+}
+
+.itemcount-add:disabled {
+  background-color: #555;
+  color: #aaa;
+  cursor: not-allowed;
+  transform: none;
+}
+
