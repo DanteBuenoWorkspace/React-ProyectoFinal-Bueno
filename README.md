@@ -45,14 +45,13 @@ npm run dev
 ## 📸 Capturas
 
 ### 🏠 Home
-![Home](public/screenshots/home.png)
+![Home](./public/screenshots/home.png)
 
 ### 🛍️ Productos
-![Productos](public/screenshots/productos.png)
+![Productos](./public/screenshots/productos.png)
 
 ### 🛒 Carrito
-![Carrito](public/screenshots/carrito.png)
+![Carrito](./public/screenshots/carrito.png)
 
 ### ✅ Checkout
-![Checkout](public/screenshots/checkout.png)
-
+![Checkout](./public/screenshots/checkout.png)
